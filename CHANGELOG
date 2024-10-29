@@ -1,0 +1,19 @@
+= v1.3 =
+
+Added notice that plugin is no longer maintained
+
+= v1.2 =
+
+Bug fix: Overuse of esc_url()
+
+= v1.1 =
+
+Set user's PayPal email to their login email
+
+= v1.0 =
+
+Bug fix: affiliate had two records created
+
+= v0.1 =
+
+* Initial version
